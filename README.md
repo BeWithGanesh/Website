@@ -1,2 +1,2 @@
 # Website
-#### This repository is manged by Gnaesh Prasad. Free free to contribute.
+#### This repository is managed by Ganesh Prasad. Free free to contribute.
