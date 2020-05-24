@@ -11,7 +11,7 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
-if(isset($_REQUEST['submit'])){
+if(isset($_POST['submit'])){
 	$field1 = $_POST['field1'];
 	$field2 = $_POST['field2'];
 	$field3 = $_POST['field3'];
