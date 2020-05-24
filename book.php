@@ -22,7 +22,7 @@ if(isset($_POST['submit'])){
 
 	$sql = "INSERT INTO book(name, email, phone, date, city, time, address) VALUES ('$field1', '$field2', '$field3', '$field4', '$field5', '$field6', '$field7')";
  	if (mysqli_query($conn, $sql)) {
-		echo "<script>alert("Booked Successfully.");</script>";
+		echo "Booked Successfully.";
 	 } else {
 		echo "Error: " . $sql . "" . mysqli_error($conn);
 	 }
