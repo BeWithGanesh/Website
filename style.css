@@ -516,7 +516,7 @@ ul a{
 
 .s-addbox-left{
 
-	padding:100px 100px;
+	padding:60px 100px;
 	background: #EEEEEE;
 	width: 60%;
 	height: 500px;
@@ -527,7 +527,7 @@ ul a{
 
 .s-addbox-right{
 	border: 1px solid white;
-	padding:100px 100px;
+	padding: 60px 100px;
 	background: #EEEEEE;
 	width: 60%;
 	height: 500px;
