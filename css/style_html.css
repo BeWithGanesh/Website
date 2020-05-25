@@ -21,7 +21,7 @@ nav{
 
 nav ul{
   float: right;
-  margin-right: 90px;
+  margin-right: 100px;
 }
 nav ul li{
   display: inline-block;
@@ -32,7 +32,7 @@ nav ul li a{
   color: black;
   font-weight: 500;
   font-size: 19px;
-  padding: 7px 30px;
+  padding: 7px 20px;
   border-radius: 3px;
   
 }
@@ -516,7 +516,7 @@ ul a{
 
 .s-addbox-left{
 
-	padding:100px 100px;
+	padding:60px 100px;
 	background: #EEEEEE;
 	width: 60%;
 	height: 500px;
@@ -527,7 +527,7 @@ ul a{
 
 .s-addbox-right{
 	border: 1px solid white;
-	padding:100px 100px;
+	padding: 60px 100px;
 	background: #EEEEEE;
 	width: 60%;
 	height: 500px;
